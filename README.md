@@ -1,4 +1,4 @@
-nama : amrina
-nim : 09011282328055
-kelas : sk1a
-ujian : pemrograman komputer
+Nama : Amrina Rosyada Zikri
+NIM : 09011282328055
+Kelas : SK1A
+Ujian : Pemrograman Komputer
